@@ -7,26 +7,30 @@
 
 <div align="center">
 
- <img src="https://img.shields.io/github/issues/ricemashi/matcha?style=for-the-badge">
-<img src="https://img.shields.io/github/last-commit/ricemashi/matcha?style=for-the-badge">
+ <img src="https://img.shields.io/github/issues/ricemushy/matcha?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/ricemushy/matcha?style=for-the-badge">
 
 </div>
 <br>
 
-### Usage
+## Features
 
-This extension features a number of features:
+- Browse and read your favorite mangas directly within Visual Studio Code.
+- Stay up-to-date with the latest news related to anime and mangas
+- Automatically tracks your manga reading history, so you can easily revisit recently read chapters.
 
-- Read manga directly while coding
-- Get manga and anime news
-- Save your mangas to your list
-
-### Preview
+## Preview
 
 <img src="./media/screenshot.png">
 
-### Credits
+## Credits
 
-Matcha wouldn't even be made without these fellas (really eased me as development would be much more complicated).
+This project wouldn't even be made without these fellas (really eased me as development would be much more complicated).
 
 > https://consumet.org/ -> One of the most reliable manga scraping API available, proxying would be hard without this API :)
+
+## License
+
+Indicate the license under which your project is distributed. Choose an appropriate license that suits your project.
+
+This project is licensed under the MIT License.
